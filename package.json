@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "A webpage that displays a team of people and their basic information.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose _tests_/Employee.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaia2050/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaia2050/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Gaia2050/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.4.7"
+  }
+}
